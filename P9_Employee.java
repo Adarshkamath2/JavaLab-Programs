@@ -17,7 +17,7 @@ class EmployeeDetails{
         System.out.print("Department : ");
         Dept = sc.next();
         System.out.print("Basic Pay : ");
-        Dept = sc.next();
+        BasicPay = sc.nextDouble();
     }
     
     void GP(){
